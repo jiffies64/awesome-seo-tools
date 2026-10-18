@@ -109,6 +109,8 @@ Uncover high-potential keywords to target and captivate your audience.
 - [AnswerThePublic](https://answerthepublic.com/) - AnswerThePublic visualizes search questions and autocomplete searches in an easy-to-digest keyword research tool that helps you create content ideas.
 
 - [Keywordideas.xyz](https://keywordideas.xyz/) - Get keyword suggestions based on a URL or example keyword from real Google search data.
+
+- [Keyword Search Volume, CPC & Difficulty](https://apify.com/serbiandev/keyword-metrics) - Bulk search volume, CPC, keyword difficulty and search intent for any country, pay per use at $2 per 1,000 keywords.
   
 ## Backlink Analysis
 
